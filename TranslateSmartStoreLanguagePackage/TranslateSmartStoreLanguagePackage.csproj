@@ -99,6 +99,7 @@
   <ItemGroup>
     <Content Include="Data\language-pack-en.xml" />
     <Content Include="Data\script.sql" />
+    <Content Include="Data\SmartStoreDB.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
