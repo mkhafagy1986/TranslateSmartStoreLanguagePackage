@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "business-innovators-store",
+  "private_key_id": "a8a45622e2193cd79adac3cb384233124867b349",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMw3n3TL9K+Mj2\nXDKgIL7U3xV7vRGpKSd6ZdxSZA59LSIa9WWvv6P5QjNfNy6qUFThoCV2dOQnHFol\nMM3TQn5lHxqjjoejkys84+PKEapW0A4KS27gTWQstix05Y6HzBnpS24bSCTPhBAN\nSoOFvbmzwO+CeS8gCKStxMNfYTvO0inmH9oChuO6fvLYak2YtrHbMpQfh/UUyuHe\n0q5rVAPE/RScui4ZJWHqYp3op1IwAUnqoHkf1sqwzNCtgimDkxHzOhR/w0B8ywQF\nh9RrLAB/5xGTFpiI8rvIzpp1o/nBCdSLeYCcRIGDcqmLPnZvMOizmnK+tpYpCoH+\nVhBdIWJvAgMBAAECggEABUq6ApoEI/WtvvpUBEPTcVU9zQr15WLMKU666YMFmHyH\n+Y5UFqapa00nuMnMN8zH3M6s84lVqEbevxMEu3Vvj+4841UrdfG/EjvRKtS5C8RR\n/b+XJvQ4IzpjHqCFr2SYD21sbH/mfcMNx4BGK3yX+LeDGR7eebZRWvytYx04HDbS\nAXyXAzv/ES+6jK81KVktXe5L0mMsQvTE/yNh/h2bYqS6cnjGO7MdwEkgyRut0y56\n6pJ4ZY/2Z5VBW1k9z5oRTv4re0GXNKISgn/uOnAXTNje11mayMByuIDsbmUrQ8bF\nyHSTsM1rDKnS8od414uVZMpVxTP9zHi1cgpwqnKohQKBgQDuGlMW1wyapfhH75Md\nmachgBX6jWMaMAGciDpBG6mNYdecRtzvSZFka4zXzvL5IlrlVyrUa4klFDAbuVDt\nF9KvgDOzzg3oBmkE5aA+8BVadlIoVe5kAopgWMaUnnd7DDGdj0EP2kRvnua/b5EE\nU44SQiWkph/5Evu52G+Ya3ZKnQKBgQDcJ5+3fdUqxkybAy0x0ubgsy64qmvdyTTX\nDUAbd17yjiSyOZNTmyvWHDsmf/NgbDdhM/GqzGxg/CW2GA+mFhINViaKOvNfzJZA\n4lb5fyFJP4BbpQ0IN3vORDH4lJn2T4Ah8QxJ1p/BRow7LN3t8lX2fwLs/Zdx1CO2\n8248ocrdewKBgHNcq89QKFoxeecYq5XW4YQ4s+1uXYrNoao+0sLC7VaEBlxAdUE2\nysv11AqnyU9uFs4xep3q8ErXyitUkWIefcTsf6BpgJFfsbherVJxLldjJpFGeTdZ\nh8QAn05YrRkgIlXtl59fqHLQcYplOsT22sn75JMuriUWzoIP3Jnjzy99AoGBANdB\nyvGvkFD9iQN77KGts976c/FNeKBnTkoDA66XXffNseWtU/bIXuk/uzoemwmpZdCd\n6Gp27HU7tWfBSPO82rO9i3tWvoXp1PPmGuJiQlqLQ2bYD9D75wq8NRv3uD5UZ1VI\nihpcRuHEp/JoISq56wFUGLk+DujWYoFMrXmNPHynAoGBAOvozKuT7dNwSHoFTM8b\n9/MH/0Id4cqeWh56m3Cn8giiFFMiOf96f/qsYBiyj2FvyJXK3FTIhYzJk8wAACWT\nzKOBTeHqwSFbLmZOGe5ajbVJtWLv4PEzcRhzGwtHOY30FqOkRQGpsaipm/73yUj/\nwt8qSkPyqZ14v+KP5le/f1Se\n-----END PRIVATE KEY-----\n",
+  "client_email": "smartstoretranslateuser@business-innovators-store.iam.gserviceaccount.com",
+  "client_id": "108874577602877562961",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smartstoretranslateuser%40business-innovators-store.iam.gserviceaccount.com"
+}
